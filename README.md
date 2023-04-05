@@ -4,6 +4,7 @@
 # PDF Generation in Salesforce
 
 This is a code base to generate PDFs in Salesforce using Visualforce Page, Apex, and Trigger.
+This code is based on the tutorial [Generate PDF In Salesforce](https://arrify.com/generate-pdf-in-salesforce/).
 
 ## Visualforce Page
 
